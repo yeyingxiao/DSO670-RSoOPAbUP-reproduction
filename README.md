@@ -10,3 +10,5 @@ This code requires the following:
 - **data.py:** contains functions for importing data, simulation and calculating important parameters.
 - **experiments.py:** contains functions for evaluation, plotting and experiments implementing.
 - **main.py:** contains the main function for setting the default parameter and running the experiments.
+
+Comment/uncomment relevant lines in main.py to run different experiments.
